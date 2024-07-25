@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font: system-ui, sans-serif;
+    margin: 50px;
+}
+
+
+
+
+
+h2 {
+    outline: 1px solid red;
+    height: 100px; 
+    width: 300px;
+}
